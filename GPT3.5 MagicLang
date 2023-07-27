@@ -1,0 +1,16 @@
+我要对一个文本配置文件进行中文翻译，它有自己特殊格式。
+格式为：
+功能名称=翻译文本。
+我会将它的具体格式发给你
+
+文本举例：
+screen.ATMOS=Atmosphere
+option.sunPathRotation=Sun Path Angle
+option.volumeWorldTimeAnim=World Time Animation
+
+“screen.ATMOS”是它的变量名称，是不需要进行改动的，“=”后面的词组需要将其翻译成中文。
+
+就像这样：
+screen.ATMOS=大气氛围
+option.sunPathRotation=太阳斜角
+option.volumeWorldTimeAnim=世界动画同步
